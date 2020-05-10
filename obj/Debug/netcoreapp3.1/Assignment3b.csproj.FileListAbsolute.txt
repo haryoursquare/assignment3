@@ -1,0 +1,4 @@
+C:\Users\CHRISTOY\Documents\LFH\Assignment3b\obj\Debug\netcoreapp3.1\Assignment3b.csprojAssemblyReference.cache
+C:\Users\CHRISTOY\Documents\LFH\Assignment3b\obj\Debug\netcoreapp3.1\Assignment3b.csproj.CoreCompileInputs.cache
+C:\Users\CHRISTOY\Documents\LFH\Assignment3b\obj\Debug\netcoreapp3.1\Assignment3b.AssemblyInfoInputs.cache
+C:\Users\CHRISTOY\Documents\LFH\Assignment3b\obj\Debug\netcoreapp3.1\Assignment3b.AssemblyInfo.cs
